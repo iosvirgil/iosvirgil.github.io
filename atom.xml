@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://iosvirgil.github.io/atom.xml" rel="self"/>
   <link href="http://iosvirgil.github.io/"/>
-  <updated>2013-04-20T23:26:47+08:00</updated>
+  <updated>2013-04-20T23:33:50+08:00</updated>
   <id>http://iosvirgil.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[post]]></title>
+    <link href="http://iosvirgil.github.io/blog/2013/04/20/post/"/>
+    <updated>2013-04-20T23:33:00+08:00</updated>
+    <id>http://iosvirgil.github.io/blog/2013/04/20/post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[new post]]></title>
